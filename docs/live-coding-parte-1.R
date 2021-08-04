@@ -70,26 +70,30 @@ glimpse(srag_brutos_2020)
 
 
 # selecionar colunas interessantes para responder as perguntas
-# evolucao, cs_sexo, sg_uf_not, id_municip
 
 srag_2020_selecionado <- srag_brutos_2020 %>%
   select(CLASSI_FIN, DT_ENCERRA, EVOLUCAO, CS_SEXO, SG_UF_NOT, ID_MUNICIP)
 
+# ver novamente o resumo
 glimpse(srag_2020_selecionado)
 
+# remover a base bruta
 rm(srag_brutos_2020)
 
-# Para 2021
+# Para 2021 (de uma forma mais curta, sem objetos intermediários) -------
 srag_2021_selecionado <- read_csv2("docs/dados/INFLUD-2021.csv") %>%
+  # selecionar algumas colunas interessantes para responder as perguntas
   select(CLASSI_FIN, DT_ENCERRA, EVOLUCAO, CS_SEXO, SG_UF_NOT, ID_MUNICIP)
 
-# Juntar os dados!
+# Juntar os dados! ------------------
 
 srag <- bind_rows(srag_2020_selecionado, srag_2021_selecionado) %>%
   clean_names() # Limpar o nome das variáveis
 
-
+# remover as bases intermediárias
 rm(srag_2020_selecionado, srag_2021_selecionado)
 
+
+# Exportar a base criada em um arquivo .Rds
 write_rds(srag, "docs/dados-output/srag.Rds")
 
