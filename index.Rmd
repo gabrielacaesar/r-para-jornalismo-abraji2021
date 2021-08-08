@@ -1,0 +1,39 @@
+---
+title: "Jornalismo com R"
+---
+
+Boas vindas!
+
+Essa página contém informações sobre o workshop "Jornalismo com R", que acontecerá durante o [3º Domingo de Dados](https://eventos.congresse.me/ddadosabraji#), que faz parte do [16º Congresso Internacional de Jornalismo Investigativo](https://eventos.congresse.me/congressoabraji), organizado pela [ABRAJI](https://www.abraji.org.br/).
+
+
+## Base de dados utilizada
+
+A base utilizada para realizar a atividade será o "Banco de Dados de Síndrome Respiratória Aguda Grave - incluindo dados da COVID-19", disponibilizado pelo Ministério da Saúde. 
+
+Saiba mais em: [aqui (2020)](https://opendatasus.saude.gov.br/dataset/bd-srag-2020) e [aqui (2021)](https://opendatasus.saude.gov.br/dataset/bd-srag-2021).
+
+## Objetivo
+
+O objetivo é apresentar exemplos de uso da linguagem R em práticas realizadas por jornalistas.
+
+
+Portanto, a atividade será guiada por algumas perguntas, como:
+
+- Quantas mortes por Covid-19 no Brasil aparecem na nossa base de dados?
+
+- Morreram mais mulheres ou mais homens de Covid-19?
+
+- Quais estados têm o maior e o menor número de mortes, em números absolutos? E nas cidades?
+
+- E se considerarmos os dados dos estados por mês em 2021? Todos os estados tiveram um pico de mortes no mesmo mês?
+
+## Pré-requisitos
+
+Para que as pessoas participantes consigam replicar o código que utilizaremos, recomendamos que instale o [R](https://www.r-project.org/) e o [RStudio](https://www.rstudio.com/products/rstudio/download/#download).
+
+Caso tenha dificuldades, este material pode ser útil: [instruções para instalação do R](https://livro.curso-r.com/1-1-instalacao-do-r.html) e  [do RStudio](https://livro.curso-r.com/1-2-instalacao-do-rstudio.html).
+
+## Scripts em R
+
+Em breve!

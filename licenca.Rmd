@@ -1,0 +1,11 @@
+---
+title: "Licença"
+---
+
+```{r echo=FALSE, fig.align="center"}
+knitr::include_graphics("https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png")
+```
+
+Este material é disponibilizado com a licença Creative Commons Atribuição-CompartilhaIgual (CC BY-SA), ou seja, você pode compartilhar e adaptar este material, porém deve atribuir os créditos para as autoras, e o seu material também deve ter este mesmo tipo de licença. 
+  
+Saiba mais em: [Creative Commons](https://br.creativecommons.net/licencas/)

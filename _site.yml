@@ -1,0 +1,21 @@
+name: "r-para-jornalismo-abraji2021"
+navbar:
+  title: "R para Jornalismo - ABRAJI 2021"
+  left:
+    - text: "Página inicial"
+      href: index.html
+    - text: "Palestrantes"
+      href: palestrantes.html
+    - text: "Licença"
+      href: licenca.html
+  right:
+    - icon: fa-github fa-lg
+      href: https://github.com/gabrielacaesar/r-para-jornalismo-abraji2021
+output:
+  html_document:
+    theme: flatly
+    highlight: textmate
+    include:
+      after_body: footer.html
+    css: styles.css
+output_dir: "."
