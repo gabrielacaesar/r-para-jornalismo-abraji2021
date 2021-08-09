@@ -4,7 +4,6 @@
 
 # carregar pacotes
 library(tidyverse)
-library(data.table)
 
 # importar o arquivo RDS
 # ele está na pasta "dados-output"
