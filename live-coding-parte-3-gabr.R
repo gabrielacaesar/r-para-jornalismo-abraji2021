@@ -6,24 +6,10 @@
 library(tidyverse)
 library(data.table)
 
-# importar o arquivo de 2021 considerando as colunas informadas
-# download disponivel: https://opendatasus.saude.gov.br/dataset/bd-srag-2021
-dados_2021 <- fread("~/Downloads/INFLUD21-02-08-2021.csv",
-                    select = c("CLASSI_FIN", "DT_ENCERRA", "DT_EVOLUCA", "EVOLUCAO", "CS_SEXO", "DT_NASC", "SG_UF_NOT", "ID_MUNICIP"))
+# importar o arquivo RDS
+# ele está na pasta "dados-output"
 
-# importar o arquivo de 2020 considerando as colunas informadas
-# download disponivel: https://opendatasus.saude.gov.br/dataset/bd-srag-2020
-dados_2020 <- fread("~/Downloads/INFLUD-02-08-2021.csv",
-                    select = c("CLASSI_FIN", "DT_ENCERRA", "DT_EVOLUCA", "EVOLUCAO", "CS_SEXO", "DT_NASC", "SG_UF_NOT", "ID_MUNICIP"))
-
-# empilhar os dois dataframes
-dados <- bind_rows(dados_2021, dados_2020)
-
-# manter dados de mortes covid-19
-mortes_covid <- dados %>%
-  janitor::clean_names() %>%
-  filter(classi_fin == 5 & evolucao == 2) %>%
-  select(-c(classi_fin, evolucao))
+mortes_covid <- readRDS("dados-output/mortes_covid.Rds")
 
 ## Pergunta 4: ---
 # E se considerarmos os dados dos estados por mês em 2021?
