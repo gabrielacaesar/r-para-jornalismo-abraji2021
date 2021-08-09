@@ -1,8 +1,7 @@
-# instalar pacotes (se necessario)
+# instalar pacote (se necessário)
 #install.packages("tidyverse")
-#install.packages("data.table")
 
-# carregar pacotes
+# carregar pacote
 library(tidyverse)
 
 # importar o arquivo RDS

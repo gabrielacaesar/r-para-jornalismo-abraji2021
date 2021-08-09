@@ -25,7 +25,7 @@ title: "Palestrantes"
   <img src="https://cdn.congresse.me/0x400/filters:quality(100)/rqtfmz9b3dpjdux8e27afiu196vj" alt="Foto da palestrante">
   <div class="caption">
   <h3>Gabriela Caesar</h3>
-  <p>Jornalista de Dados no G1. Formada pela PUC-Rio e com passagens pelo Estadão e pelo Poder360, utiliza a programação em R para descobrir pautas, analisar dados e automatizar tarefas. Atualmente, cursa o master em jornalismo de dados, automação e data storytelling no Insper.</p>
+  <p>Jornalista de dados no G1. Formada pela PUC-Rio e com passagens pelo Estadão, pela Folha e pelo Poder360, usa a programação em R para descobrir pautas, analisar dados e automatizar tarefas. Atualmente, cursa o master em jornalismo de dados, automação e data storytelling no Insper.</p>
   <p><a href="https://github.com/gabrielacaesar" class="btn btn-primary" role="button" target="_blank"><i class="fab fa-github"></i> GitHub</a> <a href="https://twitter.com/gabrielacaesar" class="btn btn-default" role="button" target="_blank"><i class="fab fa-twitter"></i> Twitter</a></p>
   </div>
   </div>
