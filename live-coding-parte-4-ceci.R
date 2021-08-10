@@ -1,7 +1,5 @@
 
 
-
-
 library(tidyverse) # este pacote oferece uma GRANDE quantidade
 # de ferramentas para análise de dados!
 library(janitor) # limpeza de dados
@@ -57,7 +55,7 @@ resposta_2 <- mortes_covid %>%
 
 resposta_3 <- mortes_covid %>%
   mutate(dias_uti_morte = as.numeric(dmy(dt_evoluca)-dmy(dt_entuti)),
-         idade = round(as.numeric(today()-dmy(dt_nasc))/365)) %>%
+         idade = round(as.numeric(dmy(dt_evoluca) - dmy(dt_nasc))/365)) %>%
   #determinamos a idade
   group_by(idade) %>%
   summarise(mediana_uti = median(dias_uti_morte, na.rm = TRUE)) %>%
