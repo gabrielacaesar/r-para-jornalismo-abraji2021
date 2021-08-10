@@ -7,7 +7,7 @@ library(tidyverse)
 # importar o arquivo RDS
 # ele está na pasta "dados-output"
 
-mortes_covid <- readRDS("dados-output/mortes_covid.Rds")
+mortes_covid <- read_rds("dados-output/mortes_covid.Rds")
 
 ## Pergunta 4: ---
 # E se considerarmos os dados dos estados por mês em 2021?
