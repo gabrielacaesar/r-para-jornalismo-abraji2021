@@ -13,7 +13,7 @@ title: "Palestrantes"
   <h3>Cecília do Lago</h3>
   <p>Repórter no Radar Aos Fatos e Jornalista de Dados. Atualmente cobre a infodemia. Antes, esteve na CNN Brasil e no Estadão Dados. Usa R para entender grandes bases públicas e aumentar a dose de precisão no jornalismo. Está estudando estatística e cartografia por conta própria.
 </p>
-  <p><a href="https://github.com/ceciliadolago" class="btn btn-primary" role="button" target="_blank"><i class="fab fa-github"></i> GitHub</a> <a href="https://twitter.com/ceciliadolago" class="btn btn-default" role="button" target="_blank"><i class="fab fa-twitter"></i> Twitter</a></p>
+  <p><a href="https://github.com/ceciliadolago" class="btn btn-primary" role="button" target="_blank"><i class="fab fa-github"></i></a> <a href="https://twitter.com/ceciliadolago" class="btn btn-default" role="button" target="_blank"><i class="fab fa-twitter"></i></a></p>
   </div>
   </div>
 </div>
@@ -26,7 +26,7 @@ title: "Palestrantes"
   <div class="caption">
   <h3>Gabriela Caesar</h3>
   <p>Jornalista de dados no G1. Formada pela PUC-Rio e com passagens pelo Estadão, pela Folha e pelo Poder360, usa a programação em R para descobrir pautas, analisar dados e automatizar tarefas. Atualmente, cursa o master em jornalismo de dados, automação e data storytelling no Insper.</p>
-  <p><a href="https://github.com/gabrielacaesar" class="btn btn-primary" role="button" target="_blank"><i class="fab fa-github"></i> GitHub</a> <a href="https://twitter.com/gabrielacaesar" class="btn btn-default" role="button" target="_blank"><i class="fab fa-twitter"></i> Twitter</a></p>
+  <p><a href="https://github.com/gabrielacaesar" class="btn btn-primary" role="button" target="_blank"><i class="fab fa-github"></i></a> <a href="https://twitter.com/gabrielacaesar" class="btn btn-default" role="button" target="_blank"><i class="fab fa-twitter"></i></a></p>
   </div>
   </div>
 </div>
@@ -39,7 +39,8 @@ title: "Palestrantes"
   <div class="caption">
   <h3>Beatriz Milz</h3>
   <p>Co-organizadora da R-Ladies São Paulo. Doutoranda em Ciência Ambiental (PROCAM/IEE) na Universidade de São Paulo, utiliza de programação em R para pesquisa,  como coletar dados de páginas da internet (web scraping), analisar dados, apresentar resultados, entre outros.</p>
-  <p><a href="https://github.com/beatrizmilz" class="btn btn-primary" role="button" target="_blank"><i class="fab fa-github"></i> GitHub</a> <a href="https://twitter.com/BeaMilz" class="btn btn-default" role="button" target="_blank"><i class="fab fa-twitter"></i> Twitter</a></p>
+  <p><a href="https://beatrizmilz.com/" class="btn btn-default" role="button" target="_blank"><i class="fas fa-home"></i></a>
+  <a href="https://github.com/beatrizmilz" class="btn btn-primary" role="button" target="_blank"><i class="fab fa-github"></i></a> <a href="https://twitter.com/BeaMilz" class="btn btn-default" role="button" target="_blank"><i class="fab fa-twitter"></i></a></p>
   </div>
   </div>
 </div>
