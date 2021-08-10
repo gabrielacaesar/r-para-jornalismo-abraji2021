@@ -63,6 +63,7 @@ dados_2020 <-
     select = c(
       "CLASSI_FIN",
       "DT_ENCERRA",
+      "DT_ENTUTI",
       "DT_EVOLUCA",
       "EVOLUCAO",
       "CS_SEXO",
@@ -80,6 +81,7 @@ dados_2021 <-
     select = c(
       "CLASSI_FIN",
       "DT_ENCERRA",
+      "DT_ENTUTI",
       "DT_EVOLUCA",
       "EVOLUCAO",
       "CS_SEXO",
