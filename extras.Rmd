@@ -21,6 +21,13 @@ title: "Links extras"
 
 - Comunidade [R-Ladies São Paulo](https://www.instagram.com/rladiessaopaulo/) (veja uma breve [apresentação](https://r-ladies-sao-paulo.github.io/RLadiesTheme/))
 
-- [Materiais de estudo sobre R](https://materiais-estudo-r.netlify.app/portugues.html) - Compilado de links úteis em Português
+- [Discourse - Fórum em português para tirar dúvidas sobre R](https://discourse.curso-r.com/)
+
 
 - [Livro Ciência de Dados em R](https://livro.curso-r.com/), por Athos Damiani, Beatriz Milz, Caio Lente, Daniel Falbel, Fernando Correa, Julio Trecenti, Nicole Luduvice e William Amorim.
+
+
+- [Curso-R](https://curso-r.com/) - Cursos, todo o [material didático está disponível gratuitamente](https://curso-r.com/material/).
+
+
+- [Materiais de estudo sobre R](https://materiais-estudo-r.netlify.app/portugues.html) - Compilado de links úteis em Português
