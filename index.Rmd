@@ -36,4 +36,11 @@ Caso tenha dificuldades, este material pode ser útil: [instruções para instal
 
 ## Scripts em R
 
-Em breve!
+- [Parte 1](https://gabrielacaesar.github.io/r-para-jornalismo-abraji2021/live-coding-parte-1.R) - Importação dos dados
+
+- [Parte 2](https://gabrielacaesar.github.io/r-para-jornalismo-abraji2021/live-coding-parte-2.R) - Apresentado por Beatriz Milz
+
+
+- [Parte 3](https://gabrielacaesar.github.io/r-para-jornalismo-abraji2021/live-coding-parte-3.R) - Apresentado por Gabriela Caesar
+
+- [Parte 4](https://gabrielacaesar.github.io/r-para-jornalismo-abraji2021/live-coding-parte-4.R) - Apresentado por Cecília do Lago
