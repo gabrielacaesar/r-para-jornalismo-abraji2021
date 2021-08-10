@@ -53,8 +53,6 @@ library(data.table) # funções para lidar com bases de dados GRANDES
 # Importar os dados ---------
 # Conceito importante: objetos!
 
-srag_brutos_2020 <- read_csv2("dados/INFLUD-2020.csv")
-
 dados_2020 <-
   fread(
     "dados/INFLUD-2020.csv",
