@@ -14,10 +14,18 @@ title: "Links extras"
 
 - [Análise de dados eleitorais 2020 - Gabriela Caesar](https://github.com/gabrielacaesar/eleicoes2020)
 
+- [Análise de dados sobre pessoas em posse de drogas - Cecília do Lago](https://www.estadao.com.br/infograficos/cidades,sem-lei-que-cite-quantidades-policia-da-destinos-diversos-a-flagrados-com-droga,977293)
+
+- [Qual escola pública mehor alfabetiza crianças? - Cecília do Lago](https://www.estadao.com.br/infograficos/educacao,criancas-que-leem,1046679)
+
+- [Tábata Amaral é tão governista quanto seu partido - Cecília do Lago](https://politica.estadao.com.br/noticias/geral,basometro-tabata-amaral-e-tao-governista-quanto-o-pdt,70002926170)
 
 
 
 ## Materiais de estudo
+
+- [Intro to R for journalists: How to find great stories in data (inglês) com Andrew Ba Tran (Washington Post) R](https://journalismcourses.org/course/introtor/)
+
 
 - Comunidade [R-Ladies São Paulo](https://www.instagram.com/rladiessaopaulo/) (veja uma breve [apresentação](https://r-ladies-sao-paulo.github.io/RLadiesTheme/))
 
